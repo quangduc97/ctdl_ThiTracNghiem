@@ -1,0 +1,46 @@
+﻿  main.cpp
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\config.h(2,9): warning C4068: unknown pragma
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(96,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(104,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(123,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(132,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(140,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(195,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(195,25): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(197,23): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(197,25): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(197,35): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(197,47): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\DoHoa.h(6,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\DoHoa.h(6,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\DoHoa.h(800,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(12,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(28,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(62,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(89,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(108,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(126,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(153,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(169,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(203,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(230,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(246,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(281,73): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(284,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(306,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(309,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(333,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(277,7): warning C4101: 'c': unreferenced local variable
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(362,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLyNhap.h(397,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\function.h(1873,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\XyLy.h(42): warning C4715: 'Chuyen1SoSangKiTu': not all control paths return a value
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\function.h(1818): warning C4715: 'LayThongTinSinhVien': not all control paths return a value
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\function.h(46): warning C4715: 'CheckSVLogin': not all control paths return a value
+C:\Users\Quang Duc\Desktop\ThiTracNghiem\Project1\function.h(1826): warning C4715: 'LaySoCauHoi1Mon': not all control paths return a value
+  All 378 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Quang Duc\Desktop\ThiTracNghiem\Release\Project1.exe

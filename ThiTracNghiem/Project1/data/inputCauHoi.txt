@@ -1,0 +1,365 @@
+52
+BAS1141,50000
+She often goes to the..........to pray because her regions is Islam.
+A. church 
+B. pagoda  
+C. temple 
+D. mosque
+2
+BAS1141,411374
+Malaysia is divided.....................two regions.
+A. to 
+B. on 
+C. in 
+D. into
+1
+BAS1141,449924
+What aspect of................ English do you find difficult?
+A. study 
+B. studied 
+C. learnt 
+D. learning
+2
+BAS1141,582589
+She studies well...............she is busy.
+A. because 
+B. since 
+C. although 
+D. and
+2
+BAS1141,498950
+Peter, ...............can compose many pieces of music, sings very well.
+A. which 
+B. whom 
+C. who 
+D. whose
+1
+BAS1141,401329
+They often go to that...............to pray.
+A. market 
+B. hotel 
+C. hostel 
+D. shrine
+2
+BAS1141,496982
+We have lived in Hanoi............... 4 years.
+A. in 
+B. since 
+C. for 
+D. at
+1
+BAS1141,593761
+The people..............live in Greece speak Greek.
+A. which 
+B. whom 
+C. where 
+D. who
+3
+BAS1141,255118
+There is a meeting..................9 AM and 2 PM.
+A. on 
+B. between 
+C. till 
+D. at
+1
+BAS1141,223045
+The car ..............he has just bought is very expensive.
+A. who 
+B. whom 
+C. which 
+D. whose
+2
+BAS1143,279375
+Button decided to continue with his studies for another two years.
+A. get on
+B. go on
+C. carry out
+D. turn off
+3
+BAS1143,534332
+Yesterday a hurricane hit the................of Vung Tau City.
+A. coaster 
+B. coast 
+C. coasting 
+D. coastal
+2
+BAS1143,32077
+UFOs mean ................flying objects.
+A. unknown 
+B. unidentified 
+C. unable 
+D. unimaginary
+2
+BAS1143,724
+Nam suggested …… showers instead of baths to save water.
+A. takes
+B. taking
+C. to take
+D. take
+2
+BAS1143,622268
+Mount PinaTubo, ..................is a volcano in the Philippines, erupted in 1991.
+A. which 
+B. who 
+C. whom 
+D. whose
+1
+BAS1143,449568
+In 1995, a huge earthquake ................the city of Kobe in Japan.
+A. strike 
+B. struck 
+C. striking 
+D. striked
+2
+BAS1143,793961
+The UFO stayed in the sky for about thirty seconds, and then it went away
+A. disappeared
+B. appeared
+C. flew
+D. traveled
+1
+BAS1143,497057
+Many people become ..................because of the natural disaster every year.
+A. homeland 
+B. homesick 
+C. homeless 
+D. homework
+1
+BAS1143,405706
+If we became rich, we would travel .................the world.
+A. on 
+B. in 
+C. at 
+D. around
+4
+BAS1143,480870
+They visited Ho Chi Minhs Mausoleum.
+A. an impressive tomb
+B. a large building
+C. a big coffin
+D. an area for recreation
+1
+BAS1146,324222
+Shakespeare wrote " Romeo and Juliet" in 1605.
+A. "Romeo and Juliet" were written by Shakespeare in1605
+B. "Romeo and Juliet" was written by Shakespeare in 1605.
+C. "Romeo and Juliet" was written in 1605 by Shakespeare.
+D. "Romeo and Juliet" were written in 1605 by Shakespeare
+1
+BAS1146,664711
+Shall I carry your bags?
+A. No, you shant.
+B. Its all right, thanks.
+C. Janet asked me if I had ever seen a UFO.
+D. Janet asked me have I ever seen a UFO.
+2
+BAS1146,873431
+Mark has been a member of the golf club for two years.
+A. He joined the club two years ago and is still a member.
+B. He was a member of the club for two years but not a member now.
+C. Janet asked me if I had ever seen a UFO.
+D. Janet asked me have I ever seen a UFO.
+4
+BAS1201,387830
+Cho (O;10cm), diem I cach O mot khoang 6cm.Khi do do dai day HK la: 
+A. 4cm
+B. 3cm 
+C. 5/6 cm  
+D. 5/3 cm.
+3
+BAS1203,143134
+Tonh nhanh: 1,1 + 2,2 + 3,3 + 4,4 + 5,5 + 6,6 + 7,7 + 8,8 + 9,9
+A. 39,5
+B. 49,5
+C. 50,5
+D. 60,5
+2
+BAS1203,199805
+Hoi so nguyen doi nhau cu tong: Chon cou tra loi dung:  
+A. Bang 0  
+B. Là so duong   
+C. Dap an khoc   
+D. Là so nguyon om   
+1
+BAS1203,526880
+Nam nay me hon con 25 tuoi.Hoi sau 10 nam nua con kem hon me bao nhiou tuoi?
+A. 25 tuoi
+B. 10 tuoi
+C. 15 tuoi
+D. 35 tuoi
+1
+BAS1203,413154
+Gio tri x thoa mon: x - 5 = 80 - (170 - 87) là: Chon cou tra loi dung:  
+A. -2  
+B. 2  
+C. 5   
+D. 3   
+1
+BAS1203,738746
+Tom 3 so le lion tiep cu tong bang: 111
+A. 33 ; 35 ; 37
+B. 35 ; 37; 39
+C. 37 ; 39 ; 41
+D.39 ; 41 ; 43 
+2
+BAS1203,301748
+Cho 2 duong trun (O;15cm) và (I;13cm) cat nhau tai A, B.Do dai day cung chung AB la: 
+A. Mot dap an khac
+B. Neu mot duong thang vuong goc voi ban kinh cua mot duong trun tho duong thang do
+C. Trong hai day cung cua mot duong trun, doy nho hon tho gan tom hon. 
+D. B, C deu dung. 
+4
+BAS1204,759049
+Hoi con bu tut tron troi dat nang 9 ta tho o tron mat trang can nang bao nhieu ?
+A. 900 kg
+B. 15 yen
+C. 100 kg
+D. 3 ta
+3
+BAS1204,621254
+Tom do dai ma mot nua cua nu bang 80 cm ?
+A. 40 mot
+B. 1,2 mot
+C. 1,6 mot 
+D. 60 cm
+3
+BAS1204,932898
+Viet cac so tu nhien lien tiep tu 1 den 100 thanh mot so.Hoi so do co bao nhieu chu so?
+A. 3 chu so
+B. 180 chu so
+C. 189 chu so
+D. 192 chu so
+2
+BAS1204,98951
+Khoang thoi gian tu luc 9 gio kem 10 phut den 9 gio 30 phut la:
+A. 10 phyt
+B. 20 phyt
+C. 30 phyt
+D. 40 phyt
+3
+BAS1224,729768
+Y nghia cua tri so dien tro là:
+A. Cho biet muc do can tro dung dien cua dien tro.
+B. Cho biet muc do chiu dung cua dien tro.
+C. Cho biet kha nang phan chia dien ap cua dien tro.
+D. Cho biet kha nang han che dien ap trong mach dien.
+3
+BAS1224,173619
+Diot on ap (Diot zene) khac Diot chinh luu o cho:
+A. Bi danh thung ma van khong hong
+B. Chi cho dung dien chay qua theo mot chieu tu anot (A) sang catot (K).
+C. Khong bi danh thung khi bi phan cuc nguoc.
+D. Chiu duoc duoc ap nguoc cao hon ma khong bi danh thung.
+4
+BAS1224,155119
+Cam khang cua cuon cam cho ta biet dieu go?
+A. Cho biet muc do can tro dung dien xoay chieu cua cuon cam.
+B. Cho biet muc do can tro dung dien mot chieu cua cuon cam
+C. Cho biet kha nang tich luy nang luong dien truong cua cuon cam.
+D. Cho biet kha nang tich luy nang luong tu truong cua cuon cam.
+1
+BAS1227,676331
+Chon dap an sai trong chuc nang cac khoi trong may tang am:
+A. Khoi mach vào: 
+B. Khoi mach tien khuyech dai:  
+C. Khoi mach am sac: dung de dieu 
+D. Khoi mach khuyech dai cong suat: 
+4
+BAS1227,905536
+Mot he thong thung tin và vien thung gom:
+A. Phan phot thung tin.	
+B. Phot và truyen thung tin.
+C. Phan thu thung tin.	
+D. Phot và thu thung tin.
+1
+BAS1227,328632
+Neu thay cac dien tro R1 va R2 bang cac den LED tho hien tuong go se xay ra?
+A. Cac den LED se luan phien chop tat.	
+B. Mach se khung cun hoat dong duoc nua.
+C. Xung ra se khung cun doi xung nua.	
+D. Coc tranzito se bi hong.
+4
+BAS1227,701574
+Phuong phap dieu khien toc do cua dong co dien xoay chieu mot pha dung la:
+A. Thay doi vi tri stato	
+B. Thay doi Roto
+C. Dieu khien dung dien dua vao dong co	
+D. Dieu khien tan so dung dien dua vao dong co
+3
+INT1154,821689
+De chon nhieu tap tinbkhong lien tuc ta thuc hien thao tac ket hop phim ? voi click chuot.
+a)Shift
+b) Alt
+c) Tab
+d) Ctrl
+2
+INT1154,212689
+Trong bang tinh Excel, de luu tap tin dang mo duoi mot ten khac, ta chon:
+a) File / Save As
+b) File / Save
+c) File / New
+d) Edit / Replace
+1
+INT1154,933497
+Tronh tu xu ly thung tin cua moy tonh dien tu
+a) Màn honh -> CPU -> Dia cung
+b) Dia cung -> Man honh -. CPU
+c) Nhap thung tin -> Xu ly thung tin -> Xuat thung tin
+d) Màn honh -> Moy in -> CPU
+2
+INT1154,796995
+Thuoc tonh phan mem microsoft word 2010 cu phan mo rong là go? 
+a) .doc
+b) .docx
+c) .dot
+d) .txt
+1
+INT1154,542103
+De bat che do nhap ky tu Subscript khi tao ky tu hoa hoc H2O. Ta su dung chuc nang nao:
+a) Nhan to hop phom Ctrl + =
+b) Nhan to hop phom Ctrl + Shift + +
+c) Click chon bieu tuong Superscipt trong nhom Font
+d) Click chon bieu tuong Subscript trong nhom Font
+2
+INT1154,725403
+Trong soan thao word, cong dung cua to hop phim Ctrl + O dung de
+a) Tao mot van ban moi
+b) Dong van ban dang lam viec
+c) Mo 1 van ban do cu tron moy tonh
+d) Luu van ban dang lam viec
+1
+INT1155,337832
+Tron coc u lai voi nhau ta su dung menu lenh:
+a. Table\Formular
+b. Table\Sort
+c. Table\Meger Cells
+d. Table\Split Cells
+3
+INT1155,94049
+Trong soan thao Word, thao tac nao sau day se kich hoat lenh Paste 
+a) Tai the Home, nhum Clipboard, chon Paste
+b) Bam to hop phom Ctrl + V.
+c) Chon vào muc trong Office Clipboar
+d) Tat ca deu dung
+2
+INT1155,39214
+Trong soan thao Word, de ket thuc 1 doan (Paragraph) va muon sang 1 doan moi :
+a) Bam to hop phom Ctrl - Enter
+b) Bam phom Enter
+c) Bam to hop phom Shift - Enter
+d) Word tu dong, khong can bam phim
+3
+INT1155,60408
+Chen mot cot ben phai cot duoc chon:
+a. Table\Insert\Row below
+b. Table\Insert\Row above
+c. Table\Insert\Columns to right
+d. Table\Insert\Columns to left
+2
+INT1155,168830
+Cac thiet bi nao thong dung nhat hien nay dung de cung cap du lieu cho may xu ly?
+a) Bàn phom (Keyboard), Chuot (Mouse), Moy in (Printer) .
+b) Moy quot anh (Scaner).
+c) Bàn phom (Keyboard), Chuot (Mouse) và Moy quot anh (Scaner).
+d) Moy quot anh (Scaner), Chuot (Mouse)
+4

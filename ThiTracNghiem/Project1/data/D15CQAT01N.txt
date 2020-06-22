@@ -1,0 +1,7 @@
+3
+N15DCAT025,Nguyen Quang,Duc,Nam,£œª¢¤ž£¤ž,2
+BAS1141,4,10
+BAS1143,1,10
+N15DCAT043,Cao Nguyen Son,Lam,Nam,fgh,1
+BAS1143,4,10
+N15DCAT040,Nguyen Thi Ngoc,Thanh,Nu,fgh,0
